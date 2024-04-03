@@ -1,0 +1,15 @@
+{
+  "name": "xyzenbotv2",
+  "version": "1.0.1",
+  "description": "Bot WhatsApp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "@xyzendev - Adriansyah",
+  "license": "MIT",
+  "dependencies": {
+    "@xyzendev/xyzen": "^1.0.0"
+  }
+}
